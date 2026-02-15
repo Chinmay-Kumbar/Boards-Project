@@ -92,7 +92,7 @@ These insights help administrators make **data-driven decisions** and improve ov
 # QR scanner page
 ![QRScanner](https://github.com/user-attachments/assets/19b6a632-706e-4595-8a40-9a07d976f330)
 
-# Userdashboard page
+# Userdashboard 
 ![userdashboard](https://github.com/user-attachments/assets/a3e73073-c6b3-49e4-b4eb-beb9bb1b7508)
 
 
